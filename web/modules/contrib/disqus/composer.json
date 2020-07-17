@@ -1,0 +1,10 @@
+{
+    "name": "drupal/disqus",
+    "type": "drupal-module",
+    "description": "Disqus module for Drupal.",
+    "homepage": "http://drupal.org/project/disqus",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "disqus/disqus-php": "^1.0"
+    }
+}

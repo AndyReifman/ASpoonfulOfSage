@@ -1,0 +1,11 @@
+{
+  "name": "drupal-ckeditor-libraries-group/font",
+  "description": "Unofficial CKEditor 4 Font addon library for Drupal projects",
+  "type": "drupal-library",
+  "license": [
+    "GPL-3.0-or-later",
+    "MPL-1.1",
+    "LGPL-3.0-or-later",
+    "CKSource-CDL-4.0"
+  ]
+}

@@ -1,0 +1,11 @@
+name: Simple AdSense
+type: module
+description: Simple Google Adsense Block(s)
+# core: 8.x
+package: Advertising
+
+# Information added by Drupal.org packaging script on 2016-01-28
+version: '8.x-0.1'
+core: '8.x'
+project: 'simple_adsense'
+datestamp: 1453996142
